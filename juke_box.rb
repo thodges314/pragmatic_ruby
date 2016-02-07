@@ -69,6 +69,7 @@ class Song
 	end
 end
 
+
 class MyLogger
 	private_class_method :new
 	@@logger = nil
